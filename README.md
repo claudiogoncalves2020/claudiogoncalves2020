@@ -1,4 +1,4 @@
-seit meinem Studium bereitet mir das Programmieren große Freunde, weshalb ich auch außerhalb meiner beruflichen Tätigkeit Applikationen und Tools mit verschiedensten Programmier- und Skriptsprachen entwickle und implementiere.
+Seit meinem Studium bereitet mir das Programmieren große Freunde, weshalb ich auch außerhalb meiner beruflichen Tätigkeit Applikationen und Tools mit verschiedensten Programmier- und Skriptsprachen entwickle und implementiere.
 
 Nach meinem erfolgreichen Studium als Softwareentwickler und Software Ingenieur konnte ich Erfahrungen in den Programmiersprachen C, C++ , JAVA, PHP, HTML, CSS, SQL, React Nativ erwerben , sowie relationale Datenbanken, Entwicklung und Optimierung von Web erfolgreich in mehreren Projekten einsetzen.
 
